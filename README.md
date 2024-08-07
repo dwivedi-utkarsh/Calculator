@@ -1,5 +1,3 @@
 <<<<<<< HEAD
-# calculator
-=======
-# Calculator
->>>>>>> c5c47d9 (Calculator)
+# calculator app 
+this app is made with html css and java script
